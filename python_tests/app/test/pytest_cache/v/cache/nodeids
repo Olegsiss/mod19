@@ -1,0 +1,4 @@
+[
+  "first_tests.py::TestCalc::test_multiply_calculate_correctly",
+  "first_tests.py::TestCalc::test_multiply_calculation_failed"
+]
